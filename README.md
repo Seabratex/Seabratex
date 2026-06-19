@@ -23,7 +23,7 @@ e arquitetura de soluções, com interesse particular na aplicação de normas
 
 ---
 
-## 🏛️ Seabra Mastery Group
+## 🏛️ Seabra
 
 | Frente | Foco |
 |---|---|
