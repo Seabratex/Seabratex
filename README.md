@@ -2,7 +2,7 @@
 
 # SEABRA
 
-**Estudante de Gestão de TI  ·  Fundador, Seabra Mastery Group**
+**Estudante de Gestão de TI  ·  
 
 ![Gestão de TI](https://img.shields.io/badge/Foco-Gestão%20de%20TI-0f1f3d?style=flat-square&labelColor=070d1a&color=d4af37)
 ![Governança](https://img.shields.io/badge/Área-Governança%20%26%20ISO%2FIEC-0f1f3d?style=flat-square&labelColor=070d1a&color=d4af37)
@@ -16,9 +16,8 @@
 
 ## 🎯 Sobre mim
 
-Estudante de Gestão de Tecnologia da Informação, construindo na prática a
-estrutura de um grupo empresarial próprio — o **Seabra Mastery Group** —
-em paralelo aos estudos. Foco em governança de TI, segurança da informação
+Estudante de Gestão de Tecnologia da Informação, — 
+Foco em governança de TI, segurança da informação
 e arquitetura de soluções, com interesse particular na aplicação de normas
 **ISO/IEC** em projetos reais.
 
@@ -26,12 +25,10 @@ e arquitetura de soluções, com interesse particular na aplicação de normas
 
 ## 🏛️ Seabra Mastery Group
 
-Holding em construção, organizada em duas frentes:
-
 | Frente | Foco |
 |---|---|
 | **Tecnologia** | Infraestrutura em nuvem, SaaS, data center |
-| **Investimentos** | Alocação de capital, gestão patrimonial |
+
 
 ---
 
