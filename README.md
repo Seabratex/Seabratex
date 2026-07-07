@@ -27,7 +27,8 @@ e arquitetura de soluções, com interesse particular na aplicação de normas
 
 | Frente | Foco |
 |---|---|
-| **Tecnologia** | Infraestrutura em nuvem, SaaS, data center |
+| **Tecnologia** | LGPD, governança de TI, segurança da informação
+e arquitetura de soluções|
 
 
 ---
